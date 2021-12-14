@@ -1,4 +1,5 @@
 # muso-ninjas
+A playlist sharing community, final Vue.js project from this [course](https://www.udemy.com/course/modern-javascript-from-novice-to-ninja/)
 
 ## Project setup
 ```
